@@ -27,9 +27,9 @@ The aim is to get a clear idea of which cars perform well and how sales change o
 ---
 
 ## *Dashboard*
-- ![Stock Dashboard](dashboard.png)
-[Download Dashboard PDF](./Car%20Sales%20Dashboard.pdf)
-[Download PBIX File](./car_sales_dashboard.pbix)
+- ![Car Sales Dashboard](dashboard1.png)(dashboard2.png)
+[Download Dashboard PDF](.car-sales-dashboard.pdf)
+[Download PBIX File](.car-sales-dashboard-analysis.pbix)
 
 ---
 
